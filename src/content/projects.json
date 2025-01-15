@@ -1,0 +1,40 @@
+[
+  {
+    "id": "0",
+    "title": "OWL",
+    "image": "../images/owlmain.png",
+    "description": "Transforming play, Unleashing ownership",
+    "skills": [
+      "ReactJS,Go ,Blockchain, TypeScript,TailwindCSS,MongoDB,Vite,Shadcn"
+    ],
+    "websiteLink": "https://www.playowl.xyz",
+    "githubLink": "https://github.com/SurkhabSingh/OWL-diamante"
+  },
+  {
+    "id": "1",
+    "title": "JIM",
+    "image": "../images/JIM.png",
+    "description": "An exercise encyclopedia",
+    "skills": ["ReactJS,MaterialUI, AuthO,RapidAPI,FramerMotion"],
+    "websiteLink": "",
+    "githubLink": "https://github.com/SurkhabSingh/JIM-fitness"
+  },
+  {
+    "id": "2",
+    "title": "Versus",
+    "image": "../images/versus.png",
+    "description": " A PvP browser minigame",
+    "skills": ["JavaScript,GSAP,Three.js,FramerMotion"],
+    "websiteLink": "https://surkhabsingh.github.io/Versus/",
+    "githubLink": "https://github.com/SurkhabSingh/Versus"
+  },
+  {
+    "id": "3",
+    "title": "ChorniQuill",
+    "image": "../images/chorniquill.png",
+    "description": "For your blogging needs!",
+    "skills": ["JavaScript, EJS, NodeJS, ExpressJS"],
+    "websiteLink": "",
+    "githubLink": "https://github.com/SurkhabSingh/ChroniQuill"
+  }
+]

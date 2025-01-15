@@ -1,0 +1,25 @@
+{
+  "short_name": "Surkhab",
+  "name": "Surkhab Singh | Portfolio",
+  "icons": [
+    {
+      "src": "surkhab_logo_b.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "surkhab_logo_b.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "surkhab_logo_b.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

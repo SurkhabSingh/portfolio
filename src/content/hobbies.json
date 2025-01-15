@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0",
+    "name": "Athletics",
+    "description": "Represented Delhi State multiple times on National level",
+    "smallWidth": "6rem",
+    "largeWidth": "8rem",
+    "smallHeight": "6rem",
+    "largeHeight": "8rem",
+    "strokeWidth": "7",
+    "viewBox": "0 0 512 512",
+    "transform": null,
+    "animationDuration": 18
+  },
+  {
+    "id": "1",
+    "name": "Hackathons",
+    "description": "Won top prize in multiple international Hackathons",
+    "smallWidth": "6rem",
+    "largeWidth": "8rem",
+    "smallHeight": "6rem",
+    "largeHeight": "8rem",
+    "strokeWidth": "7",
+    "viewBox": "0 0 512 512",
+    "transform": null,
+    "animationDuration": 18
+  },
+  {
+    "id": "2",
+    "name": "Gaming",
+    "description": "Grandmaster in Overwatch, God Of Destruction in Tekken 8, Radiant in Valorant",
+    "smallWidth": "10rem",
+    "largeWidth": "12rem",
+    "smallHeight": "6rem",
+    "largeHeight": "8rem",
+    "strokeWidth": "18",
+    "viewBox": "0 0 300.000000 179.000000",
+    "transform": "translate(0.000000,179.000000) scale(0.100000,-0.100000)",
+    "animationDuration": 14
+  }
+]
