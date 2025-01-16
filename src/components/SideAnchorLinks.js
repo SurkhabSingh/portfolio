@@ -1,12 +1,5 @@
 import { React } from "react";
-import {
-  CubeSvgPath,
-  emailSvgPath,
-  githubSvgPath,
-  linkedInSvgPath,
-  rocketLeagueSvgPath,
-  UTRSvgPath,
-} from "./SvgHelper";
+import { emailSvgPath, githubSvgPath, linkedInSvgPath } from "./SvgHelper";
 import { styled } from "@mui/material";
 import { useTheme } from "@mui/material";
 

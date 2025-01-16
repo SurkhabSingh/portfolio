@@ -230,7 +230,7 @@ const Navbar = () => {
                   transition:
                     "opacity 600ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, background-color 200ms ease-in-out 0s !important",
                   animation: "fadeIn",
-                  animationDuration: "2s",
+                  animationDuration: "1s",
                 }}
               >
                 Resume
@@ -321,24 +321,15 @@ const Navbar = () => {
               }}
             >
               <img
-                src={
-                  theme === "light"
-                    ? process.env.PUBLIC_URL + "/surkhab_logo_b.png"
-                    : process.env.PUBLIC_URL + "/surkhab_logo_w.png"
-                }
+                src={process.env.PUBLIC_URL + "/logo.webp"}
                 alt="Logo"
                 style={{
                   width: "40px",
                   height: "45px",
-                  animation: !hasAnimated
-                    ? collapse
-                      ? "fadeIn"
-                      : "fadeInDown"
-                    : "",
-                  animationDuration: collapse ? "2s" : "1s",
                 }}
               />
             </Typography>
+
             {collapse ? drawer : navbar}
           </Toolbar>
         </StyledAppBarContainer>
