@@ -219,10 +219,7 @@ const Navbar = () => {
           onKeyDown={toggleDrawer(false)}
         >
           <StyledDrawerList>
-            <StyledResumeLink
-              href={process.env.PUBLIC_URL + "/Surkhab_Resume.pdf"}
-              target="_blank"
-            >
+            <StyledResumeLink href={"/Surkhab_Resume.pdf"} target="_blank">
               <Typography
                 sx={{
                   padding: "0.5rem 1rem !important",
@@ -299,10 +296,7 @@ const Navbar = () => {
         style={{ paddingLeft: "4px" }}
         className={!hasAnimated ? "animate__animated animate__fadeInDown" : ""}
       >
-        <StyledResumeLink
-          href={process.env.PUBLIC_URL + "/Surkhab_Resume.pdf"}
-          target="_blank"
-        >
+        <StyledResumeLink href={"/Surkhab_Resume.pdf"} target="_blank">
           <Typography>Resume</Typography>
         </StyledResumeLink>
       </div>
@@ -321,7 +315,7 @@ const Navbar = () => {
               }}
             >
               <img
-                src={process.env.PUBLIC_URL + "/logo.webp"}
+                src={"/logo.webp"}
                 alt="Logo"
                 style={{
                   width: "40px",

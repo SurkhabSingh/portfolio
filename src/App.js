@@ -17,7 +17,7 @@ function App() {
         <CssBaseline>
           <Router>
             <Routes>
-              <Route exact path="/" element={<Main />} />
+              <Route path="/" element={<Main />} />
               <Route path="*" element={<NotFound404 />} />
             </Routes>
           </Router>

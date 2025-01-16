@@ -2,7 +2,7 @@
   {
     "id": "0",
     "title": "OWL",
-    "image": "../public/images/owlmain.webp",
+    "image": "../images/owlmain.webp",
     "description": "Transforming play, Unleashing ownership",
     "skills": [
       "ReactJS,Go ,Blockchain, TypeScript,TailwindCSS,MongoDB,Vite,Shadcn"
@@ -13,7 +13,7 @@
   {
     "id": "1",
     "title": "JIM",
-    "image": "../public/images/JIM.webp",
+    "image": "../images/JIM.webp",
     "description": "An exercise encyclopedia",
     "skills": ["ReactJS,MaterialUI, AuthO,RapidAPI,FramerMotion"],
     "websiteLink": "",
@@ -22,7 +22,7 @@
   {
     "id": "2",
     "title": "Versus",
-    "image": "../public/images/versus.webp",
+    "image": "../images/versus.webp",
     "description": " A PvP browser minigame",
     "skills": ["JavaScript,GSAP,Three.js,FramerMotion"],
     "websiteLink": "https://surkhabsingh.github.io/Versus/",
@@ -31,7 +31,7 @@
   {
     "id": "3",
     "title": "ChorniQuill",
-    "image": "../public/images/chorniquill.webp",
+    "image": "../images/chorniquill.webp",
     "description": "For your blogging needs!",
     "skills": ["JavaScript, EJS, NodeJS, ExpressJS"],
     "websiteLink": "",
