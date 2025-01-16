@@ -121,11 +121,7 @@ const Footer = () => {
           </StyledFooterList>
         )}
         <StyledFooterText>Developed by Surkhab Singh</StyledFooterText>
-        <StyledFooterText sx={{ marginBottom: "1rem" }}>
-          <StyledViewCodeLink href="https://github.com/SurkhabSingh">
-            View the code <GitHub sx={{ marginBottom: "-0.2rem" }} />
-          </StyledViewCodeLink>
-        </StyledFooterText>
+        <StyledFooterText sx={{ marginBottom: "1rem" }}></StyledFooterText>
       </div>
     </StyledFooterRoot>
   );
