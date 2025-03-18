@@ -1,16 +1,16 @@
 [
   {
     "id": "0",
-    "school": "GTBIT Rajouri Garden",
-    "schoolName": "Bachelor of Technology in Computer Science",
-    "years": "2020 - 2024",
-    "percentage": "85.4"
+    "school": "OptiPhoenix",
+    "schoolName": "Jr. Fullstack Developer",
+    "years": "July'24 - Present",
+    "percentage": "Remote"
   },
   {
     "id": "1",
-    "school": "G.H.P.S India Gate",
-    "schoolName": "Class XII, CBSE",
-    "years": "2020",
-    "percentage": "86.83"
+    "school": "Heimetverse",
+    "schoolName": "Full Stack Developer",
+    "years": "March'24 - June'24",
+    "percentage": "Remote"
   }
 ]

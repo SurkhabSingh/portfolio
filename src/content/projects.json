@@ -5,17 +5,28 @@
     "image": "../images/owlmain.webp",
     "description": "Transforming play, Unleashing ownership",
     "skills": [
-      "ReactJS,Go ,Blockchain, TypeScript,TailwindCSS,MongoDB,Vite,Shadcn"
+      "ReactJS, Go, Zustand, NodeJS, TypeScript, TailwindCSS, MongoDB, Vite, Shadcn"
     ],
     "websiteLink": "https://www.playowl.xyz",
     "githubLink": "https://github.com/SurkhabSingh/OWL-diamante"
   },
   {
     "id": "1",
+    "title": "Tutor.ai",
+    "image": "../images/tutorai.webp",
+    "description": "Revolutionizing Language Learning with AI",
+    "skills": [
+      "ReactJS, TailwindCSS, NodeJS, Solidity, ZerePy, Sonic, Pydantic, OpenRouter, Deepseek"
+    ],
+    "websiteLink": "",
+    "githubLink": "https://github.com/JasmeetSingh7314/Tutor.ai/tree/master"
+  },
+  {
+    "id": "1",
     "title": "JIM",
     "image": "../images/JIM.webp",
     "description": "An exercise encyclopedia",
-    "skills": ["ReactJS,MaterialUI, AuthO,RapidAPI,FramerMotion"],
+    "skills": ["ReactJS, MaterialUI, AuthO, RapidAPI, FramerMotion"],
     "websiteLink": "",
     "githubLink": "https://github.com/SurkhabSingh/JIM-fitness"
   },
@@ -27,14 +38,5 @@
     "skills": ["JavaScript,GSAP,Three.js,FramerMotion"],
     "websiteLink": "https://surkhabsingh.github.io/Versus/",
     "githubLink": "https://github.com/SurkhabSingh/Versus"
-  },
-  {
-    "id": "3",
-    "title": "ChorniQuill",
-    "image": "../images/chorniquill.webp",
-    "description": "For your blogging needs!",
-    "skills": ["JavaScript, EJS, NodeJS, ExpressJS"],
-    "websiteLink": "",
-    "githubLink": "https://github.com/SurkhabSingh/ChroniQuill"
   }
 ]

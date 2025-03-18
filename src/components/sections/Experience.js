@@ -112,7 +112,7 @@ const Experience = () => {
           }
         >
           <StyledGenericTitle component="h1">
-            Education
+            Experience
             <StyledDivider />
           </StyledGenericTitle>
         </StyledGenericContainer>
@@ -138,9 +138,7 @@ const Experience = () => {
                   {item.schoolName}
                 </StyledCarouselSubTitle>
                 <StyledCarouselSubTitle>{item.years}</StyledCarouselSubTitle>
-                <StyledCarouselSubText>
-                  Percentage: {item.percentage}
-                </StyledCarouselSubText>
+                <StyledCarouselSubText>{item.percentage}</StyledCarouselSubText>
               </StyledCarouselCard>
             ))}
           </Slider>

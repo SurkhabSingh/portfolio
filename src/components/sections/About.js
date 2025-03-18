@@ -101,11 +101,11 @@ const About = () => {
   });
   const technologiesArr = [
     "GraphQL",
-    "Node",
+    "NodeJS",
     "AWS",
-    "Material-UI",
+    "MaterialUI",
     "Prisma",
-    "Ethereum",
+    "Zustand",
     "Javascript",
     "PostgresSQL",
     "Redux",
@@ -117,6 +117,8 @@ const About = () => {
     "Serverless",
     "Lambda",
     "Nginx",
+    "Kafka",
+    "RabbitMQ",
     "JWT",
     "MongoDB",
     "Git",
