@@ -2,7 +2,7 @@
   {
     "id": "0",
     "name": "Athletics",
-    "description": "Represented Delhi State multiple times on National level",
+    "description": "Represented Delhi State multiple times in Hockey.",
     "smallWidth": "6rem",
     "largeWidth": "8rem",
     "smallHeight": "6rem",
@@ -15,7 +15,7 @@
   {
     "id": "1",
     "name": "Hackathons",
-    "description": "Won top prize in multiple Global Hackathons",
+    "description": "Secured top positions in multiple Global Hackathons",
     "smallWidth": "6rem",
     "largeWidth": "8rem",
     "smallHeight": "6rem",
@@ -28,7 +28,7 @@
   {
     "id": "2",
     "name": "Gaming",
-    "description": "Grandmaster in Overwatch, God Of Destruction in Tekken 8, Radiant in Valorant",
+    "description": "Grandmaster in Overwatch, Radiant in Valorant",
     "smallWidth": "10rem",
     "largeWidth": "12rem",
     "smallHeight": "6rem",
