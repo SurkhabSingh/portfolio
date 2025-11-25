@@ -145,15 +145,13 @@ const About = () => {
             <StyledDivider />
           </StyledGenericTitle>
           <StyledGenericSubText component="h1">
-            Hello there! My name is Surkhab Singh, I’m a Computer Science
-            graduate diving into the world of web development. My goal is
-            simple: build websites that not only solve real-world problems but
-            also provide a seamless and responsive user experience. I thrive on
-            the challenge of exploring new tools and technologies, continuously
-            growing as a developer. By day, I'm coding away to create impactful
-            web applications. By night, you’ll find me deep into the latest
-            games, looking for new ways to level up both in the virtual world
-            and my career.
+            Hi there! Surkhab this side, fullstack stack dev and a CS graduate.
+            For me, Software engineering follows the same logic as a Game: the grind is non-negotiable, 
+            you have to put in the work in order to get something out. I approach every project with that same 
+            obsessive curiosity—treating development not just as a job, but as a leveling process. I’m an 
+            experimental learner who prefers to break problems down bit by bit, going over until the output 
+            is the same as the image I have in my mind. My goal isn't just to write code, it's to build meaningful 
+            tools that solve real-world problems and actually make life easier for the people using them.
           </StyledGenericSubText>
           <StyledScrollingContainer>
             <StyledScrollingBelt>
