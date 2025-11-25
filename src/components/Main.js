@@ -1,6 +1,6 @@
 import { React, useState, useEffect } from "react";
 import { Container, useMediaQuery, styled, useTheme } from "@mui/material";
-import avatar from "../assets/hampter.webp";
+import avatar from "../assets/fween.webp";
  
 import {
   Loader,
